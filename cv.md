@@ -55,9 +55,9 @@ Main responsibilities:
 - creating system prototypes and user interfaces
 
 #### Front-End developer 
-**Codding staff**  
-Minsk, Belarus  
-*October,2010 - June,2012*
+__Codding staff__    
+Minsk, Belarus    
+_October,2010 - June,2012_
 
 Developed Web and mobile applications:
 - cross-browser development of web apps
