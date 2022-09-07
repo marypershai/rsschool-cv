@@ -18,7 +18,7 @@ Primary area: Selenium Web Driver, JavaScript(Node.js),Protractor, Cucumber, Jas
 ### Experience
 
 #### Senior Software Test Automation Engineer 
-__Cloud Call__
+__Cloud Call__  
 Minsk, Belarus  
 __September,2019 - December, 2020__
 
@@ -28,7 +28,7 @@ Experienced in:
 - set up test documentation
 
 #### Software Test Automation Engineer 
-__Epam __
+__Epam__  
 Minsk, Belarus  
 _October,2016 - July, 2019_
 
@@ -43,7 +43,7 @@ screenshotcomparison tests, API testing
 - mentoring newcomers
 
 #### System analyst 
-__Mebius-K __
+__Mebius-K__  
 Minsk, Belarus  
 _May,2012 - July,2016_
 
@@ -68,10 +68,8 @@ HTML/HTML5, JavaScript, JQuery
 *********
 ### Education
 
-Master Degree of Mathematics and computer
-
+Master Degree of Mathematics and computer  
 Belaruski Dziarzhauny University  
-
 Minsk, Belarus  
 2014  
 
