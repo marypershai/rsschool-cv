@@ -18,9 +18,9 @@ Primary area: Selenium Web Driver, JavaScript(Node.js),Protractor, Cucumber, Jas
 ### Experience
 
 #### Senior Software Test Automation Engineer 
-*Cloud Call*  
+__Cloud Call__
 Minsk, Belarus  
-**September,2019 - December, 2020**
+__September,2019 - December, 2020__
 
 Experienced in:
 - set up test automation from scratch
@@ -28,9 +28,9 @@ Experienced in:
 - set up test documentation
 
 #### Software Test Automation Engineer 
-**Epam**  
+__Epam __
 Minsk, Belarus  
-*October,2016 - July, 2019*
+_October,2016 - July, 2019_
 
 Experienced in:
 - development of TAF
@@ -43,9 +43,9 @@ screenshotcomparison tests, API testing
 - mentoring newcomers
 
 #### System analyst 
-**Mebius-K**  
+__Mebius-K __
 Minsk, Belarus  
-*May,2012 - July,2016*
+_May,2012 - July,2016_
 
 Worked for The Central Bank of the Russian Federation. Create UBR LC
 system and developed RIA for the Central Bank of Russian Federation.
@@ -68,8 +68,10 @@ HTML/HTML5, JavaScript, JQuery
 *********
 ### Education
 
-**Master Degree of Mathematics and computer**
+Master Degree of Mathematics and computer
+
 Belaruski Dziarzhauny University  
+
 Minsk, Belarus  
 2014  
 
