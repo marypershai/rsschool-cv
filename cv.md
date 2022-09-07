@@ -3,10 +3,10 @@
 ## Junior Frontend Developer
 ********* 
 ### Contact information
-Phone: +375 29 3291190
-E-mail: mary.pershay@gmail.com
-Telegram: @marypershay
-Discord: Maryia Piarshai (@marypershai)
+Phone: +375 29 3291190  
+E-mail: mary.pershay@gmail.com  
+Telegram: @marypershay  
+Discord: Maryia Piarshai (@marypershai)  
 [LinkedIn](https://www.linkedin.com/in/mary-pershay-0b703341/ "LinkedIn")
 
 *********
@@ -18,8 +18,8 @@ Primary area: Selenium Web Driver, JavaScript(Node.js),Protractor, Cucumber, Jas
 ### Experience
 
 #### Senior Software Test Automation Engineer 
-*Cloud Call*
-Minsk, Belarus
+*Cloud Call*  
+Minsk, Belarus  
 **September,2019 - December, 2020**
 
 Experienced in:
@@ -28,9 +28,9 @@ Experienced in:
 - set up test documentation
 
 #### Software Test Automation Engineer 
-*Epam*
-Minsk, Belarus
-**October,2016 - July, 2019**
+**Epam**  
+Minsk, Belarus  
+*October,2016 - July, 2019*
 
 Experienced in:
 - development of TAF
@@ -43,9 +43,9 @@ screenshotcomparison tests, API testing
 - mentoring newcomers
 
 #### System analyst 
-*Mebius-K*
-Minsk, Belarus
-**May,2012 - July,2016**
+**Mebius-K**  
+Minsk, Belarus  
+*May,2012 - July,2016*
 
 Worked for The Central Bank of the Russian Federation. Create UBR LC
 system and developed RIA for the Central Bank of Russian Federation.
@@ -55,9 +55,9 @@ Main responsibilities:
 - creating system prototypes and user interfaces
 
 #### Front-End developer 
-*Codding staff*
-Minsk, Belarus
-**October,2010 - June,2012**
+**Codding staff**  
+Minsk, Belarus  
+*October,2010 - June,2012*
 
 Developed Web and mobile applications:
 - cross-browser development of web apps
@@ -68,10 +68,10 @@ HTML/HTML5, JavaScript, JQuery
 *********
 ### Education
 
-*Master Degree of Mathematics and computer *
-Belaruski Dziarzhauny University
-Minsk, Belarus
-2014
+**Master Degree of Mathematics and computer**
+Belaruski Dziarzhauny University  
+Minsk, Belarus  
+2014  
 
 *********
 ### Skills
