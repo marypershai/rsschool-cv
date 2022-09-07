@@ -1,5 +1,5 @@
 # Maryia Piarshai
-![photo](/img/photo.png "Photo")
+![photo](/rsschool-cv/img/photo.png "Photo")
 ## Junior Frontend Developer
 ********* 
 ### Contact information
